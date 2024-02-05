@@ -5,7 +5,7 @@ permalink: /
 subtitle: Postdoc
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic_2.jpg
   address: >
     <p> New York </p>
 
