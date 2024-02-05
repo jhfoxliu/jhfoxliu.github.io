@@ -2,11 +2,21 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: 
 nav: true
-nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+### teaching assistants:
 
-Organize your courses by years, topics, or universities, however you like!
+- ***Programing in biological applications***. Sept. 2020 to Jan. 2021 
+(lectured by **Prof. Jianhua Yang** & **Associate Prof. Lingling Zheng**)
+
+- ***Biostatistics***. March 2020 to Aug. 2020 
+(lectured by **Prof. Wenqing Zhang** & **Prof. Xubin Liu**)
+
+- ***From Molecular Genetics to Genomics***. Sept. 2018 to Jan. 2019 
+(lectured by **Associate Prof. Qiuyun Liu**)
+
+- ***Programing in biological applications***. Sept. 2017 to Jan. 2018 
+(lectured by **Prof. Jianhua Yang & Associate Prof. Lingling Zheng**)
+
