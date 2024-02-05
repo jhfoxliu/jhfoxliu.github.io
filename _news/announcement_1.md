@@ -1,8 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2022-2-27 10:00:00+0800
 inline: true
-related_posts: false
 ---
 
-A simple inline announcement.
+3 Years ! Enventually! Our paper **Developmental mRNA m5C landscape and regulatory innovations of massive m5C modification of maternal mRNAs in animals** has been accepted by Nature Communications in principle! Cheers! [(story)](/blog/2022/stories_bisulfite/)
